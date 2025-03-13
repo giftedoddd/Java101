@@ -1,6 +1,6 @@
 # Java 101
 
-This repository contains my assignments and projects for university.
+This repository contains my assignments and projects for my Java course at university.
 
 ## Table of Contents
 
